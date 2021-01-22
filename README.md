@@ -8,6 +8,8 @@ reingeschrieben
 
 ## How To Contribute
 
+### Copyrihgt
+
 
 
 # Starter Web Repo
