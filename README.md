@@ -11,6 +11,8 @@ eine Sonne
 
 ### Copyrihgt
 
+2020 Git Training All rights reserved.
+
 
 
 # Starter Web Repo
